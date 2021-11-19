@@ -12,15 +12,17 @@ This Repo contains a few things I have learnt over the past couple of months on 
 - Simple arithimetics which include addition, substraction, multiplication and division
 - Dual line display
 - Percentage and backspace buttons
-        - Authomatics scientific formatting
-     ###Contributing
-        - Want to contribute? Pull requests are welcome
-        - Plase make sure that you pull request is well-scoped
-        - or major changes, please open an issue first to discuss what you would like to change.
-     ###Known Issues 
-        - Implemtations of scientific functionalities 
-        - History tape which saves every calculation with the time and date stamped
-        - Colour theme
-        - Multi-line input for really long equations
-        - Landscape view for complex calculations
-        - Responsiveness to all screensizes
+- Authomatics scientific formatting
+
+### Contributing
+- Want to contribute? Pull requests are welcome
+- Plase make sure that you pull request is well-scoped
+- or major changes, please open an issue first to discuss what you would like to change.
+
+###Known Issues 
+- Implemtations of scientific functionalities 
+- History tape which saves every calculation with the time and date stamped
+- Colour theme
+- Multi-line input for really long equations
+- Landscape view for complex calculations
+- Responsiveness to all screensizes
