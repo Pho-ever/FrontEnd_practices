@@ -29,3 +29,9 @@ A working calculator App using HTML, CSS and Vanilla Javascript
 - Multi-line input for really long equations
 - Landscape view for complex calculations
 - Responsiveness to all screensizes
+
+
+## 2. BASIC LANDING PAGE
+This landing page is black and white and not all that responsive.
+Consists of just HTML and CSS.
+Javascript functionality will be added soon.
