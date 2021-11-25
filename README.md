@@ -35,3 +35,8 @@ A working calculator App using HTML, CSS and Vanilla Javascript
 This landing page is black and white and not all that responsive.
 Consists of just HTML and CSS.
 Javascript functionality will be added soon.
+
+![Annotation 2021-11-25 215624](https://user-images.githubusercontent.com/67446930/143499172-e78b2061-8d1e-4caa-9133-f80afb1d22ee.jpg)
+
+
+
