@@ -49,9 +49,9 @@ Consist of HTML and CSS only
 
 
 ## 4. TODO LIST APP
-A basic Todo list app with JavaScript functionality
-No entirely responsive 
-Allows you to delete and input new todos 
+A basic Todo list app with JavaScript functionality.
+No entirely responsive.
+\Allows you to delete and input new todos 
 
 
 
