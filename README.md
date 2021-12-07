@@ -40,7 +40,7 @@ Javascript functionality will be added soon.
 
 
 ## 3. SIGN UP FORM
-A simple responsive sign up form
+A simple responsive sign up form.
 Consist of HTML and CSS only
 
 
