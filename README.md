@@ -32,16 +32,16 @@ A working calculator App using HTML, CSS and Vanilla Javascript
 
 
 ## 2. BASIC LANDING PAGE
-This landing page is black and white and not all that responsive.
-Consists of just HTML and CSS.
-Javascript functionality will be added soon.
+- This landing page is black and white and not all that responsive.
+- Consists of just HTML and CSS.
+- Javascript functionality will be added soon.
 
 ![Annotation 2021-11-25 215624](https://user-images.githubusercontent.com/67446930/143499172-e78b2061-8d1e-4caa-9133-f80afb1d22ee.jpg)
 
 
 ## 3. SIGN UP FORM
-A simple responsive sign up form.
-Consist of HTML and CSS only
+- A simple responsive sign up form.
+- Consist of HTML and CSS only
 
 
 ![Annotation 2021-12-07 153922](https://user-images.githubusercontent.com/67446930/145049376-e7e6fae1-af23-4035-848e-d25ee0fe7d47.jpg)
@@ -49,9 +49,9 @@ Consist of HTML and CSS only
 
 
 ## 4. TODO LIST APP
-A basic Todo list app with JavaScript functionality.
-No entirely responsive.
-\Allows you to delete and input new todos 
+- A basic Todo list app with JavaScript functionality.
+- No entirely responsive.
+- Allows you to delete and input new todos 
 
 
 
