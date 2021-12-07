@@ -42,6 +42,8 @@ Javascript functionality will be added soon.
 ## 3. SIGN UP FORM
 A simple responsive sign up form
 Consist of HTML and CSS only
+
+
 ![Annotation 2021-12-07 153922](https://user-images.githubusercontent.com/67446930/145049376-e7e6fae1-af23-4035-848e-d25ee0fe7d47.jpg)
 
 
