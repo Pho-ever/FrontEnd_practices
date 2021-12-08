@@ -59,3 +59,9 @@ A working calculator App using HTML, CSS and Vanilla Javascript
 
 ![Annotation 2021-12-07 194609](https://user-images.githubusercontent.com/67446930/145088602-0ab365dc-8f7e-4953-b414-e802f1df3966.jpg)
 
+
+
+## 5. ARTICLE PAGE 
+- A single page article i decided to try out 
+- Just plain HTML and CSS
+- Lorem ipsom used as content
