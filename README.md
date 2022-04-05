@@ -22,10 +22,10 @@ This Repo contains a few things I have learnt over the past couple of months on 
 - Percentage and backspace buttons
 - Authomatics scientific formatting
 
-### Contributing
+### Contribution
 - Want to contribute? Pull requests are welcome
-- Plase make sure that you pull request is well-scoped
-- or major changes, please open an issue first to discuss what you would like to change.
+- Please make sure that you pull request is well-scoped
+- Or major changes, please open an issue first to discuss what you would like to change.
 
 ### Known Issues 
 - Implemtations of scientific functionalities 
