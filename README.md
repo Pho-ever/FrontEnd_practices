@@ -4,9 +4,12 @@ This Repo contains a few things I have learnt over the past couple of months on 
 - All of the Different projects have their own branch
 
 ## 1. BASIC CALCULATOR APP
-A working calculator App using HTML, CSS and Vanilla Javascript 
-    The App only provides basic functionalities and not scientific, programmer or converter functionalities that helps change unit of measurements and currencies 
-    The App will have more functionalities from time to time as i get better at what i do. 
+ - A working calculator App using HTML, CSS and Vanilla Javascript 
+ - The App only provides basic functionalities and not scientific 
+ - It doesn't provide programmer or converter functionalities that helps change unit of measurements and currencies 
+ - The App will have more functionalities from time to time as i get better at what i do.
+ - The app was deployed using Netlify
+ - The Link - [Calculator App](https://calculatorr-app.netlify.app/) 
     
     
 ![Annotation 2021-11-19 090316](https://user-images.githubusercontent.com/67446930/142587306-2e016d62-eb50-4f5a-8dd6-5b87d6424049.jpg)
