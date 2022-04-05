@@ -1,6 +1,7 @@
 # Personal_Frontend_Projects
 This Repo contains a few things I have learnt over the past couple of months on my Journey to become a frontend developer
 - From HTML, CSS and Vanilla Javascript
+- All of the Different projects have their own branch
 
 ## 1. BASIC CALCULATOR APP
 A working calculator App using HTML, CSS and Vanilla Javascript 
