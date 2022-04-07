@@ -57,6 +57,8 @@ This Repo contains a few things I have learnt over the past couple of months on 
 - A basic Todo list app with JavaScript functionality.
 - No entirely responsive.
 - Allows you to delete and input new todos 
+- The app was deployed using Netlify
+- The Link - [Todo-list App](https://todo-llist.netlify.app/) 
 
 
 
